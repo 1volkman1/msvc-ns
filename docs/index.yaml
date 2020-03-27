@@ -3,14 +3,14 @@ entries:
   msvc-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-03-27T06:36:45.83576629Z"
+    created: "2020-03-27T11:02:47.940146729Z"
     description: Microservices project
-    digest: 210467686d22bda0701c7c944e9ceb7f5627848cd235792416306dd2f7618f99
+    digest: 7e8c52dcad84f01f0ba9fb03c6f4c0b0a44110aa88a998527836b14289a71b43
     maintainers:
     - name: Igor test
     name: msvc-chart
     type: application
     urls:
-    - https://github.com/1volkman1/msvc-ns.git/msvc-chart-1.0.0.tgz
+    - https://1volkman1.github.io/msvc-ns/msvc-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2020-03-27T06:36:45.83465652Z"
+generated: "2020-03-27T11:02:47.938891755Z"
